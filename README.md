@@ -1,16 +1,22 @@
 👋 Hi, I’m @husseinSabryCS
 
-👀 I’m interested in backend with Node.js and software testing
+🧪 I’m a Software Tester with a strong background in backend development using Node.js
 
-🌱 I’m currently learning software testing
+🔍 I’m passionate about software quality, test automation, and ensuring smooth and bug-free user experiences
 
-💞️ I’m looking to collaborate on backend projects with Node.js or software testing initiatives
+🌱 Currently expanding my skills in software testing methodologies, tools like Selenium & TestNG, and test case design
 
-📫 How to reach me: phone 01096586823, email sabryhusseinhussein@gmail.com
+💻 I also have hands-on experience in backend APIs, RESTful services, and database management using MySQL & MongoDB
+
+🤝 I’m open to collaborations on QA/testing projects or backend services in Node.js
+
+📫 How to reach me:  
+📞 01096586823  
+📧 hussein.sabry.cs.4@gmail.com
 
 😄 Pronouns: s7s
 
-⚡ Fun fact: I'm a huge problem-solving enthusiast and I enjoy tackling complex backend challenges!
+⚡ Fun fact: I love solving logic puzzles and breaking apps (before users do 😉)
 
 <!---
 husseinSabryCS/husseinSabryCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
