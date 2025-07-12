@@ -1,6 +1,6 @@
 👋 Hi, I’m @husseinSabryCS
 
-🧪 I’m a Software Tester with a strong background in backend development using Node.js
+🧪 I’m a Software Tester 
 
 🔍 I’m passionate about software quality, test automation, and ensuring smooth and bug-free user experiences
 
@@ -8,7 +8,7 @@
 
 💻 I also have hands-on experience in backend APIs, RESTful services, and database management using MySQL & MongoDB
 
-🤝 I’m open to collaborations on QA/testing projects or backend services in Node.js
+🤝 I’m open to collaborations on QA/testing projects 
 
 📫 How to reach me:  
 📞 01096586823  
